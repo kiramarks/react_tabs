@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);body{font-family:Lato}.tabs{display:flex}.tab__btn{width:100px;height:30px;outline:none;cursor:pointer;border:1px solid transparent;border-radius:5px 5px 0 0}.tab__btn--pressed{border-color:#bbb;border-radius:5px 5px 0 0;background-color:rgba(0,0,255,.2)}.tab__content{border:1px solid #bbb;padding:15px}
+/*# sourceMappingURL=main.ac359008.chunk.css.map */
